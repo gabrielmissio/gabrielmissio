@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielmissio&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmissio" /> </p>
 
-- 🔭 I’m currently working on **Compass UOL**
+- 🔭 I’m currently working on **[Compass UOL](https://compass.uol/)**
 
 - 🌱 I’m currently learning **React**
 
