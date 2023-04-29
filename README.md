@@ -16,7 +16,7 @@ Here are some of the technologies and tools that I'm familiar with:
 - **IaC Tools**: Serverless Framework, Amazon Cloudformation, SAM
 - **Cloud platforms**: AWS
 
-### ⭐ GitHub Status
+### ⭐ GitHub Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&locale=en" alt="gabrielmissio" /></p>
 
