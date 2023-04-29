@@ -23,4 +23,8 @@ I'm always happy to chat and connect with other developers. If you'd like to rea
 - LinkedIn: [Gabriel Missio](https://www.linkedin.com/in/gabriel-missio-5a423b192)
 - Email: [gabrielmissio.dev@gmail.com](mailto:gabrielmissio.dev@gmail.com)
 
-Thanks for visiting my Github profile!
+### ⭐ GitHub Status
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&locale=en" alt="gabrielmissio" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmissio&" alt="gabrielmissio" /></p>
