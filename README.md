@@ -27,5 +27,5 @@ Here are some of the technologies and tools that I'm familiar with:
 I'm always happy to chat and connect with other developers. If you'd like to reach out, here's how you can get in touch with me:
 
 - Twitter: [@MissioDev](https://twitter.com/MissioDev)
-- Email: [gabrielmissio.dev@gmail.com](mailto:gabrielmissio.dev@gmail.com)
 - LinkedIn: [gabriel-missio-5a423b192](https://www.linkedin.com/in/gabriel-missio-5a423b192)
+- Email: [gabrielmissio.dev@gmail.com](mailto:gabrielmissio.dev@gmail.com)
