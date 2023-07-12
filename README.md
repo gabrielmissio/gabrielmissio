@@ -9,7 +9,7 @@
 Here are some of the technologies and tools that I'm familiar with:
 
 - **Serverless technologies**: AWS Lambda, Amazon DynamoDB, Amazon SQS, Amazon S3
-- **Blockchain technologies**: Hathor, Polygon, Ethereum, Hyperledger Besu, Solidity, Ethers.js
+- **Blockchain technologies**: Hathor, Polygon, Ethereum, Hyperledger Besu, Solidity, Ethers.js, Hardhat
 - **Backend development**: Node.js, Express, Python
 - **Frontend development**: Vanilla JS, React
 - **Database systems**: DynamoDB, MongoDB, PostgreSQL, MySQL
