@@ -1,31 +1,36 @@
-<h1 align="center">Hi there, I'm Gabriel Missio 👋</h1>
+<h1 align="center">Olá, sou Gabriel Missio! 👋</h1>
 
-<h3 align="center">I'm enthusiastic about learning and applying new technologies to create solutions that make the world a better place.</h3>
+<h3 align="center">Acredito na filosofia do "indivíduo soberano" e vejo a tecnologia como uma das ferramentas mais poderosas para alcançar esse ideal.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielmissio&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmissio" /> </p>
 
-### 🔧 Technologies
+## 🛠 Tecnologias e Ferramentas
 
-Here are some of the technologies and tools that I'm familiar with:
+- **Linguagens**: Javascript/Node.js, Solidity, Python 
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, DynamoDB
+- **IaC**: Serverless Framework, Amazon Cloudformation, SAM
+- **Blockchain**: Ethereum, Polygon, Hyperledger Besu, Hathor
+- **Cloud**: AWS (Lambda, Cognito, RDS, S3, SQS, SNS, EC2, VPC, Cloudformation)
 
-- **Serverless technologies**: AWS Lambda, Amazon DynamoDB, Amazon SQS, Amazon S3
-- **Blockchain technologies**: Hathor, Polygon, Ethereum, Hyperledger Besu, Solidity, Ethers.js, Hardhat
-- **Backend development**: Node.js, Express, Python
-- **Frontend development**: Vanilla JS, React
-- **Database systems**: DynamoDB, MongoDB, PostgreSQL, MySQL
-- **IaC Tools**: Serverless Framework, Amazon Cloudformation, SAM
-- **Cloud platforms**: AWS
+## 🌟 Projetos em Destaque
 
-### ⭐ GitHub Stats
+- **[Curso de Solidity](https://github.com/gabrielmissio/curso-solidity)** - Este repositório contém os códigos-fonte dos contratos inteligentes abordados na playlist "Curso de Solidity PT-BR" do meu canal do YouTube.
+- **[Setup Projects Like a Pro](https://github.com/gabrielmissio/set-up-projects-like-a-pro)** - Aprenda como configurar um projeto como um profissional com este guia completo!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&locale=en" alt="gabrielmissio" /></p>
+## 🌐 Links Externos
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielmissio&" alt="gabrielmissio" /></p>
+- [LinkedIn](https://www.linkedin.com/in/gabriel-missio-5a423b192)
+- [YouTube](https://www.youtube.com/@GabrielMissio721)
+- [NPM](https://www.npmjs.com/~missio)
 
-### 💬 Get in Touch
+## 📊 Estatísticas do GitHub
 
-I'm always happy to chat and connect with other developers. If you'd like to reach out, here's how you can get in touch with me:
+![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&theme=radical)
 
-- Twitter: [@MissioDev](https://twitter.com/MissioDev)
-- LinkedIn: [gabriel-missio-5a423b192](https://www.linkedin.com/in/gabriel-missio-5a423b192)
-- Email: [gabrielmissio.dev@gmail.com](mailto:gabrielmissio.dev@gmail.com)
+## 🚀 Objetivos
+
+Estou comprometido em aprender constantemente e construir aplicações com foco no usuário.
+
+---
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para me seguir ou se conectar comigo!
