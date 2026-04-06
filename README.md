@@ -46,6 +46,7 @@ I'm a software engineer and solutions architect focused on building scalable, cl
 
 **Blockchain**
 
+![Bitcoin](https://img.shields.io/badge/Bitcoin-222?logo=bitcoin&logoColor=F7931A)
 ![Ethereum](https://img.shields.io/badge/Ethereum-222?logo=ethereum&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-222?logo=polygon&logoColor=8247E5)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger_Besu-222?logo=hyperledger&logoColor=white)
@@ -69,7 +70,7 @@ I'm a software engineer and solutions architect focused on building scalable, cl
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmissio&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
