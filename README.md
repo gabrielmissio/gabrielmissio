@@ -1,36 +1,74 @@
-<h1 align="center">Olá, sou Gabriel Missio! 👋</h1>
+<h1 align="center">Gabriel Missio</h1>
 
-<h3 align="center">Acredito na filosofia do "indivíduo soberano" e vejo a tecnologia como uma das ferramentas mais poderosas para alcançar esse ideal.</h3>
+<p align="center">
+  Software Engineer &nbsp;·&nbsp; Cloud & Serverless &nbsp;·&nbsp; Blockchain & Web3
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrielmissio&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielmissio" /> </p>
-
-## 🛠 Tecnologias e Ferramentas
-
-- **Linguagens**: Javascript/Node.js, Solidity, Python 
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, DynamoDB
-- **IaC**: Serverless Framework, Amazon Cloudformation, SAM
-- **Blockchain**: Ethereum, Polygon, Hyperledger Besu, Hathor
-- **Cloud**: AWS (Lambda, Cognito, RDS, S3, SQS, SNS, EC2, VPC, Cloudformation)
-
-## 🌟 Projetos em Destaque
-
-- **[Curso de Solidity](https://github.com/gabrielmissio/curso-solidity)** - Este repositório contém os códigos-fonte dos contratos inteligentes abordados na playlist "Curso de Solidity PT-BR" do meu canal do YouTube.
-- **[Setup Projects Like a Pro](https://github.com/gabrielmissio/set-up-projects-like-a-pro)** - Aprenda como configurar um projeto como um profissional com este guia completo!
-
-## 🌐 Links Externos
-
-- [LinkedIn](https://www.linkedin.com/in/gabriel-missio-5a423b192)
-- [YouTube](https://www.youtube.com/@GabrielMissio721)
-- [NPM](https://www.npmjs.com/~missio)
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub de Gabriel](https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&theme=radical)
-
-## 🚀 Objetivos
-
-Estou comprometido em aprender constantemente e construir aplicações com foco no usuário.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-missio-5a423b192">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.youtube.com/@GabrielMissio721">YouTube</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.npmjs.com/~missio">npm</a>
+</p>
 
 ---
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para me seguir ou se conectar comigo!
+### About
+
+I'm a software engineer focused on building scalable, cloud-native applications and decentralized systems. I work primarily with JavaScript/Node.js and have deep experience with AWS serverless architectures and blockchain protocols. I enjoy writing clean, well-tested code and sharing knowledge through open-source projects and educational content.
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-222?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-222?logo=typescript&logoColor=3178C6)
+![Solidity](https://img.shields.io/badge/Solidity-222?logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-222?logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-222?logo=c%2B%2B&logoColor=00599C)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-222?logo=amazon-web-services&logoColor=FF9900)
+![Serverless](https://img.shields.io/badge/Serverless_Framework-222?logo=serverless&logoColor=FD5750)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-222?logo=amazon-web-services&logoColor=FF9900)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-222?logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-222?logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-222?logo=mongodb&logoColor=47A248)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-222?logo=amazon-dynamodb&logoColor=4053D6)
+
+**Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-222?logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-222?logo=polygon&logoColor=8247E5)
+![Hyperledger](https://img.shields.io/badge/Hyperledger_Besu-222?logo=hyperledger&logoColor=white)
+![Hathor](https://img.shields.io/badge/Hathor_Network-222)
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---|---|
+| [set-up-projects-like-a-pro](https://github.com/gabrielmissio/set-up-projects-like-a-pro) | Comprehensive guide for setting up professional Node.js projects with best practices |
+| [cloud-crafter-cli](https://github.com/gabrielmissio/cloud-crafter-cli) | CLI tool that generates ready-to-use serverless project templates for AWS |
+| [task-manager-api](https://github.com/gabrielmissio/task-manager-api) | Serverless REST API built with Test-Driven Development on AWS |
+| [flex-pass](https://github.com/gabrielmissio/flex-pass) | Flexible and customizable password generator — available on npm |
+| [mastering-web3-transactions](https://github.com/gabrielmissio/mastering-web3-transactions) | Deep dive into Web3 transaction lifecycle and patterns |
+| [curso-solidity](https://github.com/gabrielmissio/curso-solidity) | Smart contract examples from my Solidity course series (PT-BR) |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&hide_border=true&theme=default&hide_title=true&rank_icon=github" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmissio&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" />
+</p>
