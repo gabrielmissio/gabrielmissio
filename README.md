@@ -18,6 +18,8 @@
 
 I'm a software engineer and solutions architect focused on building scalable, cloud-native applications and decentralized systems. I work primarily with JavaScript/Node.js and have hands-on experience designing AWS serverless architectures, infrastructure as code with Terraform, and blockchain protocols.
 
+Deep expertise in cryptography and blockchain standards: digital signatures, asymmetric cryptography, HSM & mTLS integration, and protocols such as BIP-32, BIP-44, ERC-4337, EIP-7702, EIP-3009, and x402.
+
 ---
 
 ### Tech Stack
@@ -51,19 +53,6 @@ I'm a software engineer and solutions architect focused on building scalable, cl
 ![Polygon](https://img.shields.io/badge/Polygon-222?logo=polygon&logoColor=8247E5)
 ![Hyperledger](https://img.shields.io/badge/Hyperledger_Besu-222?logo=hyperledger&logoColor=white)
 ![Hathor](https://img.shields.io/badge/Hathor_Network-222)
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---|---|
-| [oraculo-do-bicho](https://github.com/gabrielmissio/oraculo-do-bicho) | AI-powered mystic interpretations of the Jogo do Bicho, monetized per-query via the x402 Protocol |
-| [cloud-crafter-cli](https://github.com/gabrielmissio/cloud-crafter-cli) | CLI tool that generates ready-to-use templates for common cloud resources |
-| [set-up-projects-like-a-pro](https://github.com/gabrielmissio/set-up-projects-like-a-pro) | Comprehensive guide for setting up professional Node.js projects with best practices |
-| [aws-serverless-webinar](https://github.com/gabrielmissio/aws-serverless-webinar) | Migrating a traditional Express server to a serverless architecture using AWS Lambda |
-| [snake-bash](https://github.com/gabrielmissio/snake-bash) | Classic Snake game playable directly from your terminal |
-| [hathor-webinar-demo](https://github.com/gabrielmissio/hathor-webinar-demo) | Dual-API demo using OpenAI image generation and Hathor Network for token payments |
 
 ---
 
