@@ -56,12 +56,12 @@ I'm a software engineer focused on building scalable, cloud-native applications 
 
 | Project | Description |
 |---|---|
+| [oraculo-do-bicho](https://github.com/gabrielmissio/oraculo-do-bicho) | AI-powered mystic interpretations of the Jogo do Bicho, monetized per-query via the x402 Protocol |
+| [cloud-crafter-cli](https://github.com/gabrielmissio/cloud-crafter-cli) | CLI tool that generates ready-to-use templates for common cloud resources |
 | [set-up-projects-like-a-pro](https://github.com/gabrielmissio/set-up-projects-like-a-pro) | Comprehensive guide for setting up professional Node.js projects with best practices |
-| [cloud-crafter-cli](https://github.com/gabrielmissio/cloud-crafter-cli) | CLI tool that generates ready-to-use serverless project templates for AWS |
-| [task-manager-api](https://github.com/gabrielmissio/task-manager-api) | Serverless REST API built with Test-Driven Development on AWS |
-| [flex-pass](https://github.com/gabrielmissio/flex-pass) | Flexible and customizable password generator — available on npm |
-| [mastering-web3-transactions](https://github.com/gabrielmissio/mastering-web3-transactions) | Deep dive into Web3 transaction lifecycle and patterns |
-| [curso-solidity](https://github.com/gabrielmissio/curso-solidity) | Smart contract examples from my Solidity course series (PT-BR) |
+| [aws-serverless-webinar](https://github.com/gabrielmissio/aws-serverless-webinar) | Migrating a traditional Express server to a serverless architecture using AWS Lambda |
+| [snake-bash](https://github.com/gabrielmissio/snake-bash) | Classic Snake game playable directly from your terminal |
+| [hathor-webinar-demo](https://github.com/gabrielmissio/hathor-webinar-demo) | Dual-API demo using OpenAI image generation and Hathor Network for token payments |
 
 ---
 
