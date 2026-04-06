@@ -69,7 +69,7 @@ I'm a software engineer and solutions architect focused on building scalable, cl
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&hide_border=true&theme=default&hide_title=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielmissio&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmissio&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmissio&layout=compact&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
