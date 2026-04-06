@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Missio</h1>
 
 <p align="center">
-  Software Engineer &nbsp;·&nbsp; Cloud & Serverless &nbsp;·&nbsp; Blockchain & Web3
+  Software Engineer &nbsp;·&nbsp; Solutions Architect &nbsp;·&nbsp; Cloud & Serverless &nbsp;·&nbsp; Blockchain & Web3
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### About
 
-I'm a software engineer focused on building scalable, cloud-native applications and decentralized systems. I work primarily with JavaScript/Node.js and have deep experience with AWS serverless architectures and blockchain protocols. I enjoy writing clean, well-tested code and sharing knowledge through open-source projects and educational content.
+I'm a software engineer and solutions architect focused on building scalable, cloud-native applications and decentralized systems. I work primarily with JavaScript/Node.js and have hands-on experience designing AWS serverless architectures, infrastructure as code with Terraform, and blockchain protocols.
 
 ---
 
@@ -33,6 +33,7 @@ I'm a software engineer focused on building scalable, cloud-native applications 
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-222?logo=amazon-web-services&logoColor=FF9900)
+![Terraform](https://img.shields.io/badge/Terraform-222?logo=terraform&logoColor=7B42BC)
 ![Serverless](https://img.shields.io/badge/Serverless_Framework-222?logo=serverless&logoColor=FD5750)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-222?logo=amazon-web-services&logoColor=FF9900)
 
